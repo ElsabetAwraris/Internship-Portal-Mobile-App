@@ -63,8 +63,4 @@ A mobile application developed with React Native for the front end and Node.js w
 - ....
 
 
-I appreciate your input! If you have any suggestions, encounter issues, or have feature requests, kindly raise them by opening an issue on our GitHub repository. Your feedback is valuable to Me! [GitHub repository](https://github.com/EbisaGirma21/Online_Marketplce_Platform_React_Native/issues).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
